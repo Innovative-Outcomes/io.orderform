@@ -1,0 +1,13 @@
+body {
+    background-color: #f2f3f4;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    min-width: auto;
+    margin: 0;
+}
+
